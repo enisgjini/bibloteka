@@ -15,6 +15,10 @@ Pamja e lexuesve ( Readers Screen )
 
 ![](https://i.ibb.co/VT6Xx9V/mockuper-7.png)
 
+Pamja e librave ( Books Screen )
+
+![](https://i.ibb.co/M6CZXZv/mockuper-9.png)
+
 Pamja e dhenies dhe kthimit te librave ( Rent and Lend Screen )
 
 ![](https://i.ibb.co/BG5ZLN0/mockuper-11.png)
