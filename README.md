@@ -24,6 +24,21 @@ Screen of Giving and borrowing books ( Ekrani i dhenia dhe huazimi i libave )
 
 <img src="https://i.ibb.co/w7FWys5/mockuper-11.png">
 
+## Installation ( Instalimi )
+
+Clone the project
+
+```bash
+  git clone https://github.com/enisgjini/bibloteka.git
+```
+
+Go to the project directory
+
+```bash
+  cd bmi
+```
+
+
 ## Contributing
 
 Contributions are always welcome!
