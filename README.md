@@ -4,7 +4,29 @@ A library management system is software that is designed to manage all the funct
 
 Një sistem i menaxhimit të bibliotekës është softuer që është krijuar për të menaxhuar të gjitha funksionet e një biblioteke. Ai ndihmon bibliotekarin të mbajë bazën e të dhënave të librave të rinj dhe librave që janë huazuar nga anëtarët së bashku me datat e tyre të mbarimit. Ky sistem automatizon plotësisht të gjitha aktivitetet e bibliotekës suaj. [ SQ ] 
 
+## Before starting with the application installation you must have the programs installed on your PC as follows:
 
+1. Visual Studio 2019 or newer 
+2. MySQL Workbench 8.0
+3. Devexpress 19.2
+4. Bunifu UI v1.52
+
+
+## Installation ( Instalimi )
+
+
+
+Clone the project
+
+```bash
+  git clone https://github.com/enisgjini/bibloteka.git
+```
+
+Go to the project directory
+
+```bash
+  cd bmi
+```
 
 ## Screenshots ( Pamjet e ekranit )
 
@@ -23,21 +45,6 @@ Books Screen ( Ekrani i librave )
 Screen of Giving and borrowing books ( Ekrani i dhenia dhe huazimi i libave )
 
 <img src="https://i.ibb.co/w7FWys5/mockuper-11.png">
-
-## Installation ( Instalimi )
-
-Clone the project
-
-```bash
-  git clone https://github.com/enisgjini/bibloteka.git
-```
-
-Go to the project directory
-
-```bash
-  cd bmi
-```
-
 
 ## Contributing
 
