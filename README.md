@@ -25,7 +25,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd bmi
+  cd bibloteka
 ```
 
 ## Screenshots ( Pamjet e ekranit )
